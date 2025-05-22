@@ -8,16 +8,16 @@ Hi! I'm Wanded. At the moment I specialize in **Python** & **Luau (Roblox Studio
 
 ### Languages
 - **Python**  
-  - Complete understanding of syntax, control structures, and error handling.  
-  - Basic functional programming.  
-  - Object-Oriented Programming (transitioning to a full focus).  
-  - Practical applications: visual novel engine, personal scripts.
+  - Solid understanding of syntax, control structures, and error handling.  
+  - Basic functional programming concepts.  
+  - Object-Oriented Programming (transitioning into full adoption).  
+  - Practical applications: visual novel engine, automation scripts, learning tools.
 
 - **Lua / Luau**  
-  - Essential syntax.  
-  - Integrated in Roblox Studio.  
-  - Events, functions, modules, and basic game logic.  
-  - Practical applications: combat/stats scripts, PvE systems, UI functionality.
+  - Core syntax and language fundamentals.  
+  - Integrated usage within Roblox Studio.  
+  - Proficient with events, functions, modules, and core game logic.  
+  - Practical applications: combat and stat systems, PvE mechanics, UI functionality.
 
 ---
 
@@ -25,42 +25,42 @@ Hi! I'm Wanded. At the moment I specialize in **Python** & **Luau (Roblox Studio
 
 ### Concepts & Paradigms
 - **OOP (Object-Oriented Programming)**  
-  - Gradual application of SOLID principles.  
-  - Modular design using classes and components.
+  - Gradual implementation of SOLID principles.  
+  - Modular system design using classes and components.
 
 - **EDP (Event-Driven Programming)**  
-  - Reactive logic flow based on signals or user input.  
-  - Understanding of event listeners, callbacks, and decoupled trigger-response architectures.  
-  - Applied in game development (e.g., `Touched`, `MouseClick`, `InputBegan` in Roblox Studio).
+  - Reactive logic flow based on user input or system signals.  
+  - Proficient understanding of event listeners, callbacks, and decoupled trigger-response architecture.  
+  - Actively applied in game development (e.g., `Touched`, `MouseClick`, `InputBegan` in Roblox Studio).
 
 - **DSA (Data Structures and Algorithms)**  
-  - Basic iterative and recursive algorithms.  
-  - Use of lists, dictionaries, sets, and tuples for logical modeling.
+  - Basic understanding of iterative and recursive algorithmic patterns.  
+  - Practical use of lists, dictionaries, sets, and tuples for data modeling and control flow.
 
 ### Platforms
 - **Roblox Studio**  
-  - Intermediate usage: Explorer, Workspace, Properties, and hierarchy.  
-  - LocalScript, Script & ModuleScript (in progress).  
-  - UI systems (e.g., health bar, inventory).  
-  - Event handling (`RemoteEvent`, `BindableEvent`, `Touched`, etc.).  
-  - External modules: `ShapecastHitbox`.
+  - Intermediate proficiency with Explorer, Workspace, Properties, and hierarchy navigation.  
+  - Familiar with LocalScript, Script, and ModuleScript (in progress).  
+  - UI systems implementation (e.g., health bar, inventory).  
+  - Event-driven systems using `RemoteEvent`, `BindableEvent`, `Touched`, etc.  
+  - Experience with external modules like `ShapecastHitbox`.
 
 - **Git & GitHub**  
-  - Basic usage: `add`, `commit`, `push`, `pull`.  
-  - Project organization with `README`, `.gitignore`, and `branches`.
+  - Basic version control operations: `add`, `commit`, `push`, `pull`.  
+  - Project structuring with `README`, `.gitignore`, and branch management.
 
 ---
 
 ## 🎯 Future Focus
 
-- Combat system design (PvE & PvP)  
-- Game architecture (components, modularity)  
-- Emergent systems and non-linear storytelling (inspired by *RimWorld* / *Dwarf Fortress*)  
-- Refactoring personal engines using OOP  
-- Advanced mastery of data structures and algorithms  
-- Design patterns: Observer, Component, Factory, etc.  
-- Creating developer tools for Roblox Studio  
-- Professional collaboration on GitHub (Pull Requests, Issues, Reviews)
+- Design of combat systems (PvE & PvP)  
+- Scalable game architecture using components and modular design  
+- Emergent gameplay and non-linear storytelling (inspired by *RimWorld* / *Dwarf Fortress*)  
+- Refactoring personal engines with Object-Oriented Programming  
+- Advanced proficiency in data structures and algorithms  
+- Implementation of design patterns: Observer, Component, Factory, and more  
+- Development of custom tools for Roblox Studio  
+- Professional collaboration on GitHub (Pull Requests, Issues, Code Reviews)
 
 ---
 
