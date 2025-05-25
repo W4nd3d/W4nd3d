@@ -1,93 +1,115 @@
-# 👨‍💻 Wanded – Programming, Gameplay Dev & Game Designer apprentice
+<h1 align="center">🌸 Wanded – Self-Taught Developer</h1>
 
-Hi! I'm Wanded. At the moment I specialize in **Python** & **Luau (Roblox Studio)**, I began learning programming on January 27, 2025. My focus is on building dynamic game systems and structure clean code, scalable and purpose-driven. This profile is a new window to my progress as a self-taught programmer & student on Conquer Blocks Academy.
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered_by-Cat_Cuddles-BBA5D1?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tea-Chamomile_Lover-8DA59B?logo=gitea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mood-Winter_Vibes-A4C6E3?logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Pastel_Dev-F1B1C7?logo=paintbrush&logoColor=white" />
+</p>
 
----
-
-## 🧠 Actual Knowledge
-
-### Languages
-- **Python**  
-  - Solid understanding of syntax, control structures, and error handling.  
-  - Basic functional programming concepts.  
-  - Object-Oriented Programming (transitioning into full adoption).  
-  - Practical applications: visual novel engine, automation scripts, learning tools.
-
-- **Lua / Luau**  
-  - Core syntax and language fundamentals.  
-  - Integrated usage within Roblox Studio.  
-  - Proficient with events, functions, modules, and core game logic.  
-  - Practical applications: combat and stat systems, PvE mechanics, UI functionality.
+<p align="center">
+  <strong>Python</strong> ・ <strong>Luau</strong> ・ <strong>OOP</strong> ・ <strong>Git</strong> ・ <strong>Linux</strong><br/>
+  Passionate, methodical, and self-taught developer since <code>January 27, 2025</code>. Focused on building scalable, elegant systems — from backend logic to gameplay mechanics.
+</p>
 
 ---
 
-## 📚 Ongoing Learning
+## 🌼 About Me
 
-### Concepts & Paradigms
-- **OOP (Object-Oriented Programming)**  
-  - Gradual implementation of SOLID principles.  
-  - Modular system design using classes and components.
 
-- **EDP (Event-Driven Programming)**  
-  - Reactive logic flow based on user input or system signals.  
-  - Proficient understanding of event listeners, callbacks, and decoupled trigger-response architecture.  
-  - Actively applied in game development (e.g., `Touched`, `MouseClick`, `InputBegan` in Roblox Studio).
-
-- **DSA (Data Structures and Algorithms)**  
-  - Basic understanding of iterative and recursive algorithmic patterns.  
-  - Practical use of lists, dictionaries, sets, and tuples for data modeling and control flow.
-
-### Platforms
-- **Roblox Studio**  
-  - Intermediate proficiency with Explorer, Workspace, Properties, and hierarchy navigation.  
-  - Familiar with LocalScript, Script, and ModuleScript (in progress).  
-  - UI systems implementation (e.g., health bar, inventory).  
-  - Event-driven systems using `RemoteEvent`, `BindableEvent`, `Touched`, etc.  
-  - Experience with external modules like `ShapecastHitbox`.
-
-- **Git & GitHub**  
-  - Basic version control operations: `add`, `commit`, `push`, `pull`.  
-  - Project structuring with `README`, `.gitignore`, and branch management.
+> I love writing code that feels like solving a puzzle and telling a story at the same time.  
+> I'm curious, organized, sometimes reserved, but always open to collaboration and learning ☁️  
+> Polymath passionate about exploring new ideas, with a focus on design and development.
 
 ---
 
-## 🎯 Future Focus
+## 🧠 Technical Skills
 
-- Design of combat systems (PvE & PvP)  
-- Scalable game architecture using components and modular design  
-- Emergent gameplay and non-linear storytelling (inspired by *RimWorld* / *Dwarf Fortress*)  
-- Refactoring personal engines with Object-Oriented Programming  
-- Advanced proficiency in data structures and algorithms  
-- Implementation of design patterns: Observer, Component, Factory, and more  
-- Development of custom tools for Roblox Studio  
-- Professional collaboration on GitHub (Pull Requests, Issues, Code Reviews)
-
----
-
-## ⚙️ Technical stack
-
-| Category      | Tools / Technologies |
-|----------------|----------------------------|
-| Languages     | Python, Lua / Luau         |
-| Engines        | Roblox Studio              |
-| Environments       | VSCode, Notion             |
-| Version control | Git, GitHub          |
-| Paradigms     | OOP (in active Learning), EDP, structured programming  |
+### 🛠️ Languages & Tools  
+| 💻 Area             | 🌸 Details                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Python**         | Clean scripting with lambdas, file handling (JSON/CSV), and functional logic. |
+| **Luau (Roblox)**  | OOP-based stat systems, raycasting hitboxes, and interactive GUIs.          |
+| **Git**            | Branching, resolving conflicts, tracking project evolution.                 |
+| **Environment**    | VSCode, Notion, Linux CLI & shell basics.                                  |
 
 ---
 
-## 📂 Actives Projects
+## ✨ Featured Project: Visual Novel Engine
 
-- **Novel Visual Engine on Python**  
-  Currently being refactored using OOP. Handles multiples scenes, dialogue, choices and smooth navigation.
-
-- **Combat System on Roblox Studio**  
-  Prototipe in progress. Includes: stamina, wheight, velocity, evasion, parry, and functional PVE logic.
+🎮 **Description**: A non-linear narrative system with branching logic, persistent state saving, and custom typewriter effects.  
+🔧 **Tech**: Python with JSON-based scene flow and modular structure.  
+🚧 **Status**: Currently building UI menus and moving towards full OOP refactor.  
+🔗 [Repository comming soon](#)
 
 ---
 
-### 🤝 Searching for:
+<h1 align="center">🚀 Learning Route & Development Philosophy</h1>
 
-- Opportunities to learn by collaborating on real proyects. 
-- Technical feedback on my repositories.  
-- Connections with other self-taught developers.
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-Python-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Skills-Luau-6CC24A?logo=lua&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/Focus-SOLID-0078D7?" alt="SOLID Principles" />
+  <img src="https://img.shields.io/badge/Goals-SQLite-003B57?" alt="SQLite" />
+</p>
+
+---
+
+## 🎯 Consolidated Skills
+
+- **Problem Solving:** Logic for filtering, transforming, and structuring data using Python.  
+- **Practical Exercises:** Completed 30+ logic problems from the Conquer Blocks Master Full Stack course. ([Repository comming soon](#))  
+- **Applied OOP:** Designed classes for game systems such as stats and inventory.  
+- **Project Management:** Organized tasks and documentation using Notion.
+
+---
+
+## 🎯 Current Focus
+
+- **Code Optimization:** Refactoring projects applying SOLID principles to improve code quality.  
+- **Modular Design:** Separating logic by responsibility for scalability and maintainability.  
+- **Conceptual Deepening:** Studying interactions between events, input handling, and state synchronization in games.  
+- **Iterative Prototyping:** Starting with functional scripting and progressively refactoring to discover better structures.
+
+---
+
+## 🎯 Medium-Term Goals
+
+- **Databases:** Learn SQLite for structured and persistent data storage.  
+- **Design Patterns:** Study Singleton and Observer to solve common architectural problems.  
+- **Basic Concurrency:** Implement threading to parallelize small tasks in Python.
+
+---
+
+## 🔎 What I'm Looking For
+
+### Opportunities
+
+- **Junior Python Roles:** Scripting, automation, data processing, or maintaining legacy codebases.  
+- **Game Dev Collaboration:** Contributing to Roblox projects, especially combat mechanics and UI/UX improvements with Luau scripting.
+
+### Collaboration Style
+
+- **Open Source Contributions:** Bug fixes, documentation improvements, translations (English ↔ Spanish), and tackling beginner-friendly issues.  
+- **Knowledge Exchange:** Pair programming and deep problem-solving sessions to learn and grow mutually.
+
+---
+
+## 📜 Development Philosophy
+
+- **Readable ≠ Verbose:** I prioritize clean, maintainable code. For example, I use list comprehensions when they increase clarity but avoid cryptic one-liners that obscure intent.  
+- **Hands-On Learning:** I internalize concepts best by building real projects.  
+  - Built a dialogue system to understand OOP deeply.  
+  - Explored event-driven architectures through Roblox’s `RemoteEvent` system.  
+- **English-First Mindset:** I write all code, documentation, and notes in English to enable clear, global collaboration.
+
+---
+
+> _Note: English is not my first language, but I am fully bilingual. I use it daily for coding, documentation, research, and communication. My grammar may not be perfect, and my style occasionally informal, but I communicate ideas clearly._
+
+---
+
+<p align="center">
+  <sub>🧘 Calm mind, clear logic — let’s build something meaningful together.</sub>
+</p>
+
