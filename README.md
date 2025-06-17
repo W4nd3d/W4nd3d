@@ -58,7 +58,7 @@
 ## 🎯 Consolidated Skills
 
 - **Problem Solving:** Logic for filtering, transforming, and structuring data using Python.  
-- **Practical Exercises:** Completed 30+ logic problems from the Conquer Blocks Master Full Stack course. ([Repository comming soon](#))  
+- **Practical Exercises:** Completed 30+ logic problems from the <cite>Conquer Blocks Master Full Stack<cite> course. ([Repository comming soon](#))  
 - **Applied OOP:** Designed classes for game systems such as stats and inventory.  
 - **Project Management:** Organized tasks and documentation using Notion.
 
