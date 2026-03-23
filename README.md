@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Python</strong> ・ <strong>Luau</strong> ・ <strong>OOP</strong> ・ <strong>Git</strong> ・ <strong>Linux</strong><br/>
+  <strong>Python</strong> ・ <strong>SQL</strong> ・ <strong>Luau</strong> ・ <strong>OOP</strong> ・ <strong>Git</strong> ・ <strong>Linux</strong><br/>
   Passionate, methodical, and self-taught developer since <code>January 27, 2025</code>. Focused on building scalable, elegant systems — from backend logic to gameplay mechanics.
 </p>
 
@@ -29,6 +29,7 @@
 | 💻 Area             | 🌸 Details                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | **Python**         | Clean scripting with lambdas, file handling (JSON/CSV), and functional logic. |
+| **SQL (MariaDB)**  | Databases management, querries and sub-querries using MariaDB on Linux systems.          |
 | **Luau (Roblox)**  | OOP-based stat systems, raycasting hitboxes, and interactive GUIs.          |
 | **Git**            | Branching, resolving conflicts, tracking project evolution.                 |
 | **Environment**    | VSCode, Notion, Linux CLI & shell basics.                                  |
@@ -49,8 +50,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python-blue?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Skills-Luau-6CC24A?logo=lua&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/Skills-SQL-003B57?" alt="SQL" />
   <img src="https://img.shields.io/badge/Focus-SOLID-0078D7?" alt="SOLID Principles" />
-  <img src="https://img.shields.io/badge/Goals-SQLite-003B57?" alt="SQLite" />
+  
 </p>
 
 ---
@@ -59,8 +61,8 @@
 
 - **Problem Solving:** Logic for filtering, transforming, and structuring data using Python.  
 - **Practical Exercises:** Completed 30+ logic problems from the <cite>Conquer Blocks Master Full Stack<cite> course. ([Repository comming soon](#))  
-- **Applied OOP:** Designed classes for game systems such as stats and inventory.  
-- **Project Management:** Organized tasks and documentation using Notion.
+- **Applied OOP:** Designed classes for game systems such as stats, inventory, npcs.  
+- **Project Management:** Organized tasks and documentation using Notion, Trello and Discord servers.
 
 ---
 
@@ -68,16 +70,17 @@
 
 - **Code Optimization:** Refactoring projects applying SOLID principles to improve code quality.  
 - **Modular Design:** Separating logic by responsibility for scalability and maintainability.  
-- **Conceptual Deepening:** Studying interactions between events, input handling, and state synchronization in games.  
+- **Conceptual Deepening:** Studying interactions between events, input handling, and state synchronization between client-server.  
 - **Iterative Prototyping:** Starting with functional scripting and progressively refactoring to discover better structures.
 
 ---
 
 ## 🎯 Medium-Term Goals
 
-- **Databases:** Learn SQLite for structured and persistent data storage.  
+- **Network+:** Learn Network+, protocols, networking managment.  
 - **Design Patterns:** Study Singleton and Observer to solve common architectural problems.  
 - **Basic Concurrency:** Implement threading to parallelize small tasks in Python.
+- **Linux Systems:** Learn more about servers, SSH connection, automatization scripts and backups.
 
 ---
 
@@ -85,8 +88,9 @@
 
 ### Opportunities
 
-- **Junior Python Roles:** Scripting, automation, data processing, or maintaining legacy codebases.  
-- **Game Dev Collaboration:** Contributing to Roblox projects, especially combat mechanics and UI/UX improvements with Luau scripting.
+- **Junior Python & SQL Roles:** Scripting, automation, data processing, data engineering, maintaining legacy codebases and databases.
+- **Network Operations Center role:**
+- **Linux Administraton:**
 
 ### Collaboration Style
 
@@ -100,7 +104,8 @@
 - **Readable ≠ Verbose:** I prioritize clean, maintainable code. For example, I use list comprehensions when they increase clarity but avoid cryptic one-liners that obscure intent.  
 - **Hands-On Learning:** I internalize concepts best by building real projects.  
   - Built a dialogue system to understand OOP deeply.  
-  - Explored event-driven architectures through Roblox’s `RemoteEvent` system.  
+  - Explored event-driven architectures through Roblox’s `RemoteEvent` system.
+  - Over a year using Linux systems as my personal OS making Python & bash scripts for myself.
 - **English-First Mindset:** I write all code, documentation, and notes in English to enable clear, global collaboration.
 
 ---
@@ -110,6 +115,6 @@
 ---
 
 <p align="center">
-  <sub>🧘 Calm mind, clear logic — let’s build something meaningful together.</sub>
+  <sub>Calm mind, clear logic — let’s build something meaningful together and be passionate in the process.</sub>
 </p>
 
